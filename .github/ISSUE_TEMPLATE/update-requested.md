@@ -3,7 +3,7 @@ name: Update Requested
 about: Add or update an existing resource
 title: Update Requested
 labels: ''
-assignees: ''
+assignees: calexity
 
 ---
 
