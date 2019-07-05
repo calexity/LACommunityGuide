@@ -1,6 +1,6 @@
 ## LA Community Guide
 
-We wanted a simple to search resource list for LA neighborhoods. Share these resources with your neighbors and make sure people are getting what they need. This list currently includes
+We think it should be easier to find the community resources you need around Los Angeles. We're working on making an easier to search list but for now, we offer you  [https://docs.google.com/spreadsheets/d/18C6ICLQMYb59r7jXbIYdpuBAGGbji3yoGDXW4N9W4FU/edit?usp=sharing](this spreadsheet). Share these resources with your neighbors and make sure people are getting what they need. This list currently includes
 
 - Groceries and Free Food
 - Meals
